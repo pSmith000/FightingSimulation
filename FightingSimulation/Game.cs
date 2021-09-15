@@ -181,7 +181,7 @@ namespace FightingSimulation
             //If they chose to start...
             if (choice == 1)
             {
-                //...start at the batle scene
+                //...start at the battle scene
                 currentScene = 1;
             }
             //Otherwise if they chose to exit...
